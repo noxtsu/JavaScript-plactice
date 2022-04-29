@@ -1,7 +1,7 @@
 let i;
-let num = 0;
+let num = 50;
 
-for(i = 1; i < 11; i++){
+for(i = 1; i > 11; i = i + 1){
   num = num + i;
 }
 
