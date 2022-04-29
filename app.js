@@ -1,4 +1,4 @@
-let orange = 100;
+let orange = 120;
 let apple = 120;
 
 if(orange < apple){
